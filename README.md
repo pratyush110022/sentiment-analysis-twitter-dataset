@@ -38,6 +38,6 @@ Train a Multinomial Naive Bayes model
 
 Evaluate the model and print results
 
-##Predict Sentiment:
+## Predict Sentiment:
 
 To predict the sentiment of new tweets, modify the predict_sentiment function in sentiment_analysis.py with your new tweet data.
